@@ -33,7 +33,7 @@ trigger = json.loads(os.getenv("TAG"))
 delay = os.getenv("DELAY")
 mulai = '''
 Selamat Datang Di *TeleVibesIndoMenfess*
-
+Join Group Base @TeleVibesIndo
 kamu bebas mengirim menfess pada channel @TeleVibesIndoMenfess, No 18+ n Adult Content jika ingin memposting menfess silahkan kirim pesan teks beserta tag dibawah ini :
 	
 *{}*
